@@ -36,6 +36,8 @@ tecnologias:
 
  O Habits é um site para ajudar a rastear os hábitos.
 
+ - [Visite o projeto online](https://lucasdevpeixoto.github.io/nlw-setup)
+
  ## 📝 Layout
 
  Você pode visualizar o layout do projeto através
